@@ -1,10 +1,14 @@
+==========
 Chapter 2
+==========
 
 Tom was evidently perturbed at Daisy's running around alone, for on the following Saturday night he came with her to Gatsby's party. Perhaps his presence gave the evening its peculiar quality of oppressiveness—it stands out in my memory from Gatsby's other parties that summer. There were the same people, or at least the same sort of people, the same profusion of champagne, the same many-colored, many-keyed commotion, but I felt an unpleasantness in the air, a pervading harshness that hadn't been there before. Or perhaps I had merely grown used to it, grown to accept West Egg as a world complete in itself, with its own standards and its own great figures, second to nothing because it had no consciousness of being so, and now I was looking at it again, through Daisy's eyes. It is invariably saddening to look through new eyes at things upon which you have expended your own powers of adjustment.
 
 They arrived at twilight and as we strolled out among the sparkling hundreds Daisy's voice was playing murmurous tricks in her throat.
 
-"These things excite me so," she whispered. "If you want to kiss me any time during the evening, Nick, just let me know and I'll be glad to arrange it for you. Just mention my name. Or present a green card. I'm giving out green—"
+"These things excite me so," she whispered. 
+
+"If you want to kiss me any time during the evening, Nick, just let me know and I'll be glad to arrange it for you. Just mention my name. Or present a green card. I'm giving out green—"
 
 "Look around," suggested Gatsby.
 
@@ -50,9 +54,7 @@ We were at a particularly tipsy table. That was my fault—Catsbyhad been called
 
 The girl addressed was trying, unsuccessfully, to slump against my shoulder. At this inquiry she sat up and opened her eyes.
 
-"Wha?"
-
-A massive and lethargic woman, who had been urging Daisy to play golf with her at the local club tomorrow, spoke in Miss Baedeker's defence:
+"Wha?" A massive and lethargic woman, who had been urging Daisy to play golf with her at the local club tomorrow, spoke in Miss Baedeker's defence:
 
 "Oh, she's all right now. When she's had five or six cocktails she always starts screaming like that. I tell her she ought to leave it alone."
 
